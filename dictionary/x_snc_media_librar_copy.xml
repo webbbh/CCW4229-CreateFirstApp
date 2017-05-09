@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Copy" max_length="40" name="x_snc_media_librar_copy" type="collection">
+        <element choice="1" label="Format" max_length="40" name="format" type="choice">
+            <choice>
+                <element label="Hardcover"/>
+                <element label="Paperback"/>
+                <element label="VHS"/>
+                <element label="Blu-Ray" sequence="0"/>
+            </choice>
+        </element>
+        <element label="Owned by" max_length="32" name="owned_by" reference="sys_user" type="reference"/>
+        <element choice="3" default="Available" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Loaned"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="owned_by"/>
+        </index>
+    </element>
+</database>

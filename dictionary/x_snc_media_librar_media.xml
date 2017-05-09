@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Media" max_length="40" name="x_snc_media_librar_media" type="collection">
+        <element label="Creator" max_length="40" name="creator" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element choice="1" display="true" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Book" sequence="0"/>
+                <element label="Movie" sequence="0"/>
+            </choice>
+        </element>
+    </element>
+</database>

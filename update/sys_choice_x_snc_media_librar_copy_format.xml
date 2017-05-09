@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="format" table="x_snc_media_librar_copy" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hardcover</label>
+            <language>en</language>
+            <name>x_snc_media_librar_copy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:26:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>317c7e7690a232007f44fcd3283e4dd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:26:56</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paperback</label>
+            <language>en</language>
+            <name>x_snc_media_librar_copy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca9cbe7690a232007f44fcd3283e4d48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:27:04</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VHS</label>
+            <language>en</language>
+            <name>x_snc_media_librar_copy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:27:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>deacbe7690a232007f44fcd3283e4d49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:27:18</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blu-Ray</label>
+            <language>en</language>
+            <name>x_snc_media_librar_copy</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:27:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88ac7e7690a232007f44fcd3283e4dd9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>format</element>
+            <name>x_snc_media_librar_copy</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:26:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ce9cbe7690a232007f44fcd3283e4d9e</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>format</sys_name>
+            <sys_package display_value="Media Library" source="x_snc_media_librar">3458a92c518a32007f446637134c6055</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Media Library">3458a92c518a32007f446637134c6055</sys_scope>
+            <sys_update_name>sys_choice_x_snc_media_librar_copy_format</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

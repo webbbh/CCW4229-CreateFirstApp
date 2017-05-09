@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="ffd20b3a90a232007f44fcd3283e4dc3" sys_domain="global" table="x_snc_media_librar_copy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>format</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>30f28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>b0f28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>34f28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>b4f28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>38f28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>b8f28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>3cf28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>bcf28b3a90a232007f44fcd3283e4db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:41</sys_created_on>
+            <sys_id>30f28b3a90a232007f44fcd3283e4db2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_media_librar_copy" sys_domain="global" view="Default view">ffd20b3a90a232007f44fcd3283e4dc3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_media_librar_copy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 15:54:22</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffd20b3a90a232007f44fcd3283e4dc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_media_librar_copy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Media Library" source="x_snc_media_librar">3458a92c518a32007f446637134c6055</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Media Library">3458a92c518a32007f446637134c6055</sys_scope>
+            <sys_update_name>sys_ui_section_ffd20b3a90a232007f44fcd3283e4dc3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 15:54:22</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
